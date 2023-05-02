@@ -2,10 +2,10 @@
 ###### creado en HTML y CSS en el booycamp de Tecnolochicas 
 
 ## ÍNDICE 
-* [1.Introl] (https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#intro)
-* [2. Que construí] (https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
-* [3. Objetivos del proyecto] (https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#objetivos-del-proyecto)
-* [4. link del Demo] (https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#link-al-demo)
+* [Introl](https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#intro)
+* [Que construí](https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
+* [Objetivos del proyecto](https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#objetivos-del-proyecto)
+* [link del Demo](https://github.com/MarisolHdzO/Google-clone/edit/main/README.md#link-al-demo)
 
 ***
 
